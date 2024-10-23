@@ -1,0 +1,19 @@
+#output {
+  display: flex;
+  gap: 1em;
+  font-size: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+img {
+  width: 200px;
+}
+
+.hidden {
+  display: none;
+}
